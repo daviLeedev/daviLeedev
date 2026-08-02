@@ -58,7 +58,7 @@ Next.js와 FastAPI 구조로 단계적으로 마이그레이션하고 있습니�
 - 이미지 생성·편집·재시도 작업 흐름 설계
 - 작업 상태와 미디어 라이브러리 구조 설계
 - 반응형 스튜디오 UI와 2D·3D 스테이지 구현
-
+[CanvasRelay 프로젝트 자세히 보기 →](https://github.com/daviLeedev/CanvasRelay)
 <p>
   <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
@@ -70,9 +70,8 @@ Next.js와 FastAPI 구조로 단계적으로 마이그레이션하고 있습니�
   <img src="https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
-[CanvasRelay 프로젝트 자세히 보기 →](https://github.com/daviLeedev/CanvasRelay)
-
 ---
+
 
 ### [ANA Content OS](https://github.com/daviLeedev/ANA)
 
@@ -96,4 +95,4 @@ AI 인플루언서의 세계관 설정부터 콘텐츠 생성, 검수, 배포까
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[프로젝트 자세히 보기 →](https://github.com/daviLeedev/ANA)
+[ANA프로젝트 자세히 보기 →](https://github.com/daviLeedev/ANA)
