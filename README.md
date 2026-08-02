@@ -1,4 +1,4 @@
-# 재성 | Frontend Developer
+# Jaesung Lee
 
 4년간 웹 서비스를 개발하고 운영해 온 프론트엔드 개발자입니다.
 
