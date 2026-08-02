@@ -1,4 +1,4 @@
-# 이재성 | Frontend Developer
+# 재성 | Frontend Developer
 
 Vue 3와 Nuxt를 중심으로 웹 서비스를 개발하는  
 4년 차 프론트엔드 개발자입니다.
