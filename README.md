@@ -70,6 +70,7 @@ Next.js와 FastAPI 구조로 단계적으로 마이그레이션하고 있습니�
   <img src="https://img.shields.io/badge/Playwright-E2E-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
+[CanvasRelay 프로젝트 자세히 보기 →](https://github.com/daviLeedev/CanvasRelay)
 
 ---
 
